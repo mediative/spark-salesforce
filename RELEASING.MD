@@ -1,1 +1,1 @@
-Run: sbt release -Dversion=x.y.z
+Run: sbt -Dversion=x.y.z release
